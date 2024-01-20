@@ -1,0 +1,12 @@
+.header{
+    background-color: #7F6BC4;
+    height: 30px;
+}
+.link{
+    display: flex;
+    justify-content: center;
+}
+.link a{
+    margin-right: 12px;
+    color: aliceblue;
+}
